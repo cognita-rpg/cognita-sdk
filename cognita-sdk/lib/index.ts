@@ -1,3 +1,6 @@
-export function test() {
-  return "HI";
-}
+import {
+  FileTemplateFormProps,
+  FileTemplateTextProps,
+} from "./types/rendererProps";
+
+export type { FileTemplateFormProps, FileTemplateTextProps };
