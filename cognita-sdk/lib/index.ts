@@ -23,7 +23,6 @@ import {
   PluginFeature,
   PluginFeatureReference,
   PluginFunctionExport,
-  PluginJSONExport,
   PluginManifest,
   PluginMetadata,
 } from "./types/plugin";
@@ -51,7 +50,6 @@ export type {
   PluginFeature,
   PluginFeatureReference,
   PluginFunctionExport,
-  PluginJSONExport,
   PluginManifest,
   PluginMetadata,
 };
